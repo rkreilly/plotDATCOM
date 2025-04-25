@@ -1,3 +1,7 @@
+Unable to contact author any other method.. 
+But have a for013 file that doesn;t contain NaNs when opened in Notepad++, but attempting to load the file, plotDATCOM gives the NaN error...?
+
+
 # plotDATCOM
 Plots results from Digital DATCOM using Matlab
 
